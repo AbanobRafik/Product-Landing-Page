@@ -5,7 +5,7 @@ This is a **Product Landing Page** project created as part of the [FreeCodeCamp 
 ## Live Demo
 
 Check out the live demo of the project here:  
-[Live Demo Link](#) *(Replace with your actual deployment link, e.g., GitHub Pages, Netlify, etc.)*
+👉 [Live Demo](https://abanobrafik.github.io/Product-Landing-Page/)
 
 ## Project Requirements
 
@@ -36,4 +36,4 @@ This project fulfills the following user stories as outlined by FreeCodeCamp:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/product-landing-page.git
+   git clone https://github.com/abanobrafik/Product-Landing-Page.git
